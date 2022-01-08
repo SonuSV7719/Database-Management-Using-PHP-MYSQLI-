@@ -1,7 +1,7 @@
 # Database-Management-Using-PHP-MYSQLI-
 Database Management Using PHP(MYSQLI)
 
-In thse I have covered all operation related to PHP MYSQLI
+In these I have covered all operation related to PHP MYSQLI
 
 -------------------------------------MySQL Database--------------------------------------
 1. MySQL Connect<br>

@@ -3,3 +3,5 @@
 Assume we wish to select all records from 1 - 30 (inclusive) from a table called "Orders". The SQL query would then look like this:
 
 $sql = "SELECT * FROM Orders LIMIT 30"; -->
+
+
